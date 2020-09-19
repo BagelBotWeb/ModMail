@@ -35,3 +35,4 @@ rename {new name} - Thread Only
 set {option} {values}
 snippet {add/rmv} {name} [content]
 ````
+[![Run on Repl.it](https://repl.it/badge/github/BagelBotWeb/ModMail)](https://repl.it/github/BagelBotWeb/ModMail)
